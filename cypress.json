@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.drive2.ru/",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "chromeWebSecurity": false
+}

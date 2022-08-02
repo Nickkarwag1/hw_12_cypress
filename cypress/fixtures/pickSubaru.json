@@ -1,0 +1,10 @@
+{
+    "car": {
+        "name": "subaru",
+        "model": "Impreza WRX STI",
+        "value": "1292"
+    },
+    "selectors": {
+        "urlSubaru": "experience/subaru/"
+    }
+}

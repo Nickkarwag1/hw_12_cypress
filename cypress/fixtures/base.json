@@ -1,0 +1,7 @@
+{
+    "selectors": {
+        "titlePage": "h1.x-title",
+        "lookButton": "[name='mode']",
+        "choiceModel": "[name='ModelId']"
+    }
+}

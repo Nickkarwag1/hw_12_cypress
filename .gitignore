@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+.prettierrc.json
+tsconfig.json
+/cypress/fixtures/example.json
+/cypress/integration/1-getting-started
+/cypress/integration/2-advanced-examples

@@ -1,0 +1,11 @@
+{
+    "urlValue": "signup",
+    "registration": "Регистрация",
+    "hi": "Представьтесь",
+    "selectors": {
+        "signUpTab": "a[href$='signup/']",
+        "receptionTab": "a[href*='reception']",
+        "login": "#login",
+        "password": "#password"
+    }
+}

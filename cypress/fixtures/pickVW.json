@@ -1,0 +1,11 @@
+{
+    "carVW": {
+        "name": "volkswagen",
+        "model": "Passat CC",
+        "value": "1641"
+    },
+    "selectors": {
+        "parentVW": ".o-grid",
+        "carVW": "a[href$='volkswagen/']"
+    }
+}

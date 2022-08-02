@@ -1,0 +1,11 @@
+{
+    "nameCar": "BMW X7",
+    "carsTab": "Машины",
+    "model": "X 7",
+    "selectors": {
+        "searchInput": ".x-search__input",
+        "searchButton": ".c-button--index",
+        "headButtonCars": ".c-sitesearch-categories__item",
+        "resultSearch": ".c-serp-item"
+    }
+}
